@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Poetry virtual environment (if in-project)
+.venv/
+
+# VSCode settings
+.vscode/
+
+# Logs
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Byte-compiled, temp, and cache files
+*.swp
+*.swo
+.cache/
+*.bak
+
+# Test artifacts
+coverage.xml
+htmlcov/
+pytest_cache/
